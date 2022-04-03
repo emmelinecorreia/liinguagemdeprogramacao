@@ -1,0 +1,29 @@
+body{
+	font-family: times new romam;
+	font-size: 20pt;
+	background-color: beige;
+	color: #CE5D16;
+	text-align: center;
+}
+
+h1{
+	font-size: 50pt;
+	color: #2A6B84;
+	text-align: center;
+}
+
+h2{
+	font-size: 30pt;
+	color: #2A6B84;
+	text-align: center;
+}
+
+
+
+h3{
+	font-size: 10pt;
+	color: white;
+	text-align: center;
+	background-color: orange;
+	padding: 10pt;
+} 
